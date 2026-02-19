@@ -1,0 +1,8 @@
+{
+  "as_of": "2026-02-16",
+  "ignore_future_detected": true,
+  "severity_points": {"S1": 70, "S2": 30, "S3": 8, "S4": 2},
+  "blocked_bonus": 30,
+  "overdue_bonus_per_day": 2,
+  "overdue_cap_days": 10
+}
