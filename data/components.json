@@ -1,0 +1,14 @@
+{
+  "components": [
+    {"component": "auth-api", "tier": "Tier0", "owner": "identity"},
+    {"component": "billing-svc", "tier": "Tier0", "owner": "payments"},
+    {"component": "search-core", "tier": "Tier1", "owner": "platform"},
+    {"component": "inventory", "tier": "Tier1", "owner": "supply"},
+    {"component": "recommend-engine", "tier": "Tier1", "owner": "ml"},
+    {"component": "checkout-web", "tier": "Tier2", "owner": "payments"},
+    {"component": "catalog", "tier": "Tier2", "owner": "supply"},
+    {"component": "media-cdn", "tier": "Tier2", "owner": "platform"},
+    {"component": "support-portal", "tier": "Tier2", "owner": "cx"},
+    {"component": "analytics-pipeline", "tier": "Tier2", "owner": "data"}
+  ]
+}
